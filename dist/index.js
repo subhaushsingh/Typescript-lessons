@@ -1,2 +1,10 @@
 "use strict";
 let age = 5;
+let course = 'Typescript';
+let numbers = [];
+let num = [];
+let user = [1, 'A'];
+user.push(2, 'B');
+console.log(user);
+let mySize = "m";
+console.log(mySize);
